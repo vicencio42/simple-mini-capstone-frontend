@@ -29,7 +29,9 @@ export default {
       greeting: "Let's write some vue code!",
       products: [],
       productName: "",
-      productDescription:
+      productDescription: "",
+      productPrice: "",
+      productImgUrl: "",
     };
   },
   created: function () {
